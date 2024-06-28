@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SheenuSaxena
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning skills related to Data Analytics such as Sql,Excel,Python,Power-BI,Machine_Learning
-
+- 🌱 I’m currently learning skills related to data analytics such as SQL, Excel, Python, Power BI, and machine learning.
 
 
 
